@@ -1,20 +1,7 @@
-<div style="background-image: url('https://raw.githubusercontent.com/flickowoa/dotfiles/refs/heads/aurora/config/hypr/wallpapers/1.jpg'); background-size: cover; background-position: center; color: rgb(238, 238, 236); font-family: monospace; padding: 20px; border-radius: 10px; position: relative; box-shadow: 0px 0px 20px #000;">
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); backdrop-filter: blur(10px); border-radius: 10px; z-index: 1;"></div>
-  <div style="position: relative; z-index: 2;">
-    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-      <div>bhumipat@Bhumipat001: ~</div>
-      <div>🗕 🗗 🗙</div>
-  </div>
-  <hr>
-  <div style="color:rgb(50, 238, 50); padding: 16px 0;">bhumipat@Bhumipat001:~$ ./fetch.sh</div>
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumipat001&langs_count=8&theme=dark)
 
-<span style="position: relative; top: -325px; left: 450px;"> </span>
-
 ## Games
-<a href="https://kopui.itch.io/" target="_blank" style="display: inline-block; background-color: #fa5c5c; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
+<a href="https://kopui.itch.io/">
     <img src="https://static.itch.io/images/logo-white-new.svg" alt="Itch.io" style="height: 20px; vertical-align: middle; display: block;">
 </a>
 
@@ -59,6 +46,3 @@
 ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-
-<div style="color:rgb(50, 238, 50); padding: 10px 0;">bhumipat@Bhumipat001:~$</div>
-</div>
