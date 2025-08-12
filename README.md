@@ -1,4 +1,4 @@
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumipat001&langs_count=8&theme=dark)
 
 ## Games
 <a href="https://kopui.itch.io/">
