@@ -2,7 +2,7 @@
 
 ## Games
 <a href="https://kopui.itch.io/">
-    <img src="https://static.itch.io/images/logo-white-new.svg" alt="Itch.io" style="height: 20px; vertical-align: middle; display: block;">
+    <img src="https://static.itch.io/images/badge-color.svg" alt="Itch.io" style="height: 20px; vertical-align: middle; display: block;">
 </a>
 
 ##
