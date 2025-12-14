@@ -1,7 +1,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhumipat001&langs_count=10&theme=dark)
 
 ## Games
-<a href="https://kopui.itch.io/">
+<a href="https://bhumipat001.itch.io/">
     <img src="https://static.itch.io/images/badge-color.svg" alt="Itch.io" style="height: 35px; vertical-align: middle; display: block;">
 </a>
 
